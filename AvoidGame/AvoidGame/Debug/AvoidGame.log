@@ -1,2 +1,27 @@
 ﻿  Game.cpp
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(167,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,85): warning C4244:         with
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,85): warning C4244:         [
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,85): warning C4244:             T=unsigned int
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,85): warning C4244:         ]
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,55): warning C4244:         with
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,55): warning C4244:         [
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,55): warning C4244:             T=unsigned int
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(223,55): warning C4244:         ]
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,93): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,93): warning C4244:         with
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,93): warning C4244:         [
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,93): warning C4244:             T=unsigned int
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,93): warning C4244:         ]
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,60): warning C4244:         with
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,60): warning C4244:         [
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,60): warning C4244:             T=unsigned int
+C:\Users\addinedu\Documents\AvoidGame\AvoidGame\AvoidGame\Game.cpp(240,60): warning C4244:         ]
   AvoidGame.vcxproj -> C:\Users\addinedu\Documents\AvoidGame\AvoidGame\Debug\AvoidGame.exe
